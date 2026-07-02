@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/itcoder2020/app-release/releases/download/v0.1.0/cloudphoneth.apk",
-  "changelog": "- เปิดตัวเวอร์ชันแรก",
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/itcoder2020/app-release/releases/download/v0.2.0/cloudphoneth.apk",
+  "changelog": "- ทดสอบระบบแจ้งเตือนอัปเดต\n- ปรับดีไซน์การ์ดเครื่องใหม่\n- เพิ่มประวัติการเติมโค้ด\n- แก้บั๊กหน้าเช่าและโปรไฟล์",
   "forceUpdate": false
 }
