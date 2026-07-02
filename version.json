@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/USERNAME/app-release/releases/download/v0.1.0/cloudphoneth.apk",
+  "changelog": "- เปิดตัวเวอร์ชันแรก",
+  "forceUpdate": false
+}
