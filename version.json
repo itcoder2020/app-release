@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
+  "versionCode": 6,
+  "versionName": "0.6.0",
   "apkUrl": "https://github.com/itcoder2020/app-release/releases/download/0.5.0/cloudphoneth.apk",
-  "changelog": "- เพิ่ม Google Login \n แก้บัคปรับภาพคมชัดภาพ ",
+  "changelog": "แก้บัคเสียบหูฟังแล้วเสียงยังอยู่ที่ลำโพง ",
   "forceUpdate": false
 }
